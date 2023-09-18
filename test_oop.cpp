@@ -234,6 +234,7 @@ void Date::find_yesterday(Date *x){
 }
 
 int main (){
+    cout << "Tien da thay doi dong nay" << endl;
     Date *x = new Date ;
     Date *y = new Date(25 , 7 , 2023) ;
     x->imports() ;
