@@ -1,0 +1,418 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 56;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		310BF64C2A2CD15400388B6C /* bt_chuong3.c in Sources */ = {isa = PBXBuildFile; fileRef = 310BF64B2A2CD15400388B6C /* bt_chuong3.c */; };
+		310BF64E2A31D07800388B6C /* giải_đề_ctdl.c in Sources */ = {isa = PBXBuildFile; fileRef = 310BF64D2A31D07800388B6C /* giải_đề_ctdl.c */; };
+		311F988D2A3FD5330037C6FC /* cki.c in Sources */ = {isa = PBXBuildFile; fileRef = 311F988C2A3FD5330037C6FC /* cki.c */; };
+		311F988F2A4347230037C6FC /* PBL_new.c in Sources */ = {isa = PBXBuildFile; fileRef = 311F988E2A4347230037C6FC /* PBL_new.c */; };
+		31546EC729DBC0740077924F /* BT.c in Sources */ = {isa = PBXBuildFile; fileRef = 31546EC629DBC0740077924F /* BT.c */; };
+		315D85A929B6BBEC000981AF /* BT6_3.c in Sources */ = {isa = PBXBuildFile; fileRef = 315D85A829B6BBEC000981AF /* BT6_3.c */; };
+		315D85AB29B6DA4E000981AF /* BT2.c in Sources */ = {isa = PBXBuildFile; fileRef = 315D85AA29B6DA4E000981AF /* BT2.c */; };
+		316F3D6A2A9433FD0025819F /* Lập_trình_hướng_đối_tượng.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 316F3D692A9433FD0025819F /* Lập_trình_hướng_đối_tượng.cpp */; };
+		316F3D6C2A97A2BF0025819F /* test_chương_trình.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 316F3D6B2A97A2BF0025819F /* test_chương_trình.cpp */; };
+		316F3D6E2A9E34250025819F /* đa năng hoá.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 316F3D6D2A9E34250025819F /* đa năng hoá.cpp */; };
+		316F3D702A9ECB5D0025819F /* Bài tập 1 lthđt.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 316F3D6F2A9ECB5D0025819F /* Bài tập 1 lthđt.cpp */; };
+		316F3D722A9F87700025819F /* bt2 _ lthđt.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 316F3D712A9F87700025819F /* bt2 _ lthđt.cpp */; };
+		316F3D742A9F95200025819F /* BT3_lthdt.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 316F3D732A9F95200025819F /* BT3_lthdt.cpp */; };
+		316F3D762AA1A8E60025819F /* BT4_lthddt.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 316F3D752AA1A8E60025819F /* BT4_lthddt.cpp */; };
+		316F3D782AA47DAF0025819F /* BT5 _lthđt.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 316F3D772AA47DAF0025819F /* BT5 _lthđt.cpp */; };
+		316F3D7C2AA47DFD0025819F /* BT6_lthđt.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 316F3D7B2AA47DFD0025819F /* BT6_lthđt.cpp */; };
+		316F3D7E2AA8C2340025819F /* exercise7_oop.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 316F3D7D2AA8C2340025819F /* exercise7_oop.cpp */; };
+		316F3D802AAE0F710025819F /* PBL_Năm 2.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 316F3D7F2AAE0F710025819F /* PBL_Năm 2.cpp */; };
+		316F3D842AAFF76E0025819F /* exercise 02.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 316F3D832AAFF76E0025819F /* exercise 02.cpp */; };
+		316F3D862AB0405D0025819F /* bài tập lên bảng.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 316F3D852AB0405D0025819F /* bài tập lên bảng.cpp */; };
+		316F3D882AB042B50025819F /* Bài tập 01.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 316F3D872AB042B50025819F /* Bài tập 01.cpp */; };
+		319535C329B4E9C6001405AC /* FunctionExtension.c in Sources */ = {isa = PBXBuildFile; fileRef = 319535C229B4E9C6001405AC /* FunctionExtension.c */; };
+		3197502329CB4DCB005A20DD /* BT_ở_nhà.c in Sources */ = {isa = PBXBuildFile; fileRef = 3197502229CB4DCB005A20DD /* BT_ở_nhà.c */; };
+		31C082132AB6A55F00ACFBF2 /* test_oop.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 31C082112AB6A55F00ACFBF2 /* test_oop.cpp */; };
+		31D0ADDD29F768A8009D52E6 /* bt25_4.c in Sources */ = {isa = PBXBuildFile; fileRef = 31D0ADDC29F768A8009D52E6 /* bt25_4.c */; };
+		31D0ADDF29FE6E1D009D52E6 /* cautrucdulieu.c in Sources */ = {isa = PBXBuildFile; fileRef = 31D0ADDE29FE6E1D009D52E6 /* cautrucdulieu.c */; };
+		31D0ADE12A09CFDB009D52E6 /* btppt9_5.c in Sources */ = {isa = PBXBuildFile; fileRef = 31D0ADE02A09CFDB009D52E6 /* btppt9_5.c */; };
+		31D0FCE62A2754E2008E12A5 /* ctdl _Chương3.c in Sources */ = {isa = PBXBuildFile; fileRef = 31D0FCE52A2754E2008E12A5 /* ctdl _Chương3.c */; };
+		31D2280F2A8BAC6400650445 /* Mở_Đầu_c++.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 31D2280E2A8BAC6400650445 /* Mở_Đầu_c++.cpp */; };
+		31D9C1E42A128B2A00747B9A /* copy.c in Sources */ = {isa = PBXBuildFile; fileRef = 31D9C1E32A128B2A00747B9A /* copy.c */; };
+		31DE6D6129C9239300CB8080 /* BT_21_3.c in Sources */ = {isa = PBXBuildFile; fileRef = 31DE6D6029C9239300CB8080 /* BT_21_3.c */; };
+		31DE6D6329C94A2F00CB8080 /* test.c in Sources */ = {isa = PBXBuildFile; fileRef = 31DE6D6229C94A2F00CB8080 /* test.c */; };
+		31E215F82AB332A100F1E816 /* test_oop_2.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 31E215F72AB332A100F1E816 /* test_oop_2.cpp */; };
+		31E215FA2AB3F3D300F1E816 /* ngăn_xếp(stack).cpp in Sources */ = {isa = PBXBuildFile; fileRef = 31E215F92AB3F3D300F1E816 /* ngăn_xếp(stack).cpp */; };
+		31E215FC2AB3F3ED00F1E816 /* link_list.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 31E215FB2AB3F3ED00F1E816 /* link_list.cpp */; };
+		31FAD33729C857AC00426079 /* BT_20_3.c in Sources */ = {isa = PBXBuildFile; fileRef = 31FAD33629C857AC00426079 /* BT_20_3.c */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXCopyFilesBuildPhase section */
+		319535B629B4E943001405AC /* CopyFiles */ = {
+			isa = PBXCopyFilesBuildPhase;
+			buildActionMask = 2147483647;
+			dstPath = /usr/share/man/man1/;
+			dstSubfolderSpec = 0;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 1;
+		};
+/* End PBXCopyFilesBuildPhase section */
+
+/* Begin PBXFileReference section */
+		310BF64B2A2CD15400388B6C /* bt_chuong3.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = bt_chuong3.c; sourceTree = "<group>"; };
+		310BF64D2A31D07800388B6C /* giải_đề_ctdl.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = "giải_đề_ctdl.c"; sourceTree = "<group>"; };
+		311F988C2A3FD5330037C6FC /* cki.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = cki.c; sourceTree = "<group>"; };
+		311F988E2A4347230037C6FC /* PBL_new.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = PBL_new.c; sourceTree = "<group>"; };
+		31546EC629DBC0740077924F /* BT.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = BT.c; sourceTree = "<group>"; };
+		315D85A829B6BBEC000981AF /* BT6_3.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = BT6_3.c; sourceTree = "<group>"; };
+		315D85AA29B6DA4E000981AF /* BT2.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = BT2.c; sourceTree = "<group>"; };
+		316F3D692A9433FD0025819F /* Lập_trình_hướng_đối_tượng.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "Lập_trình_hướng_đối_tượng.cpp"; sourceTree = "<group>"; };
+		316F3D6B2A97A2BF0025819F /* test_chương_trình.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "test_chương_trình.cpp"; sourceTree = "<group>"; };
+		316F3D6D2A9E34250025819F /* đa năng hoá.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "đa năng hoá.cpp"; sourceTree = "<group>"; };
+		316F3D6F2A9ECB5D0025819F /* Bài tập 1 lthđt.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "Bài tập 1 lthđt.cpp"; sourceTree = "<group>"; };
+		316F3D712A9F87700025819F /* bt2 _ lthđt.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "bt2 _ lthđt.cpp"; sourceTree = "<group>"; };
+		316F3D732A9F95200025819F /* BT3_lthdt.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = BT3_lthdt.cpp; sourceTree = "<group>"; };
+		316F3D752AA1A8E60025819F /* BT4_lthddt.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = BT4_lthddt.cpp; sourceTree = "<group>"; };
+		316F3D772AA47DAF0025819F /* BT5 _lthđt.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "BT5 _lthđt.cpp"; sourceTree = "<group>"; };
+		316F3D7B2AA47DFD0025819F /* BT6_lthđt.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "BT6_lthđt.cpp"; sourceTree = "<group>"; };
+		316F3D7D2AA8C2340025819F /* exercise7_oop.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = exercise7_oop.cpp; sourceTree = "<group>"; };
+		316F3D7F2AAE0F710025819F /* PBL_Năm 2.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "PBL_Năm 2.cpp"; sourceTree = "<group>"; };
+		316F3D832AAFF76E0025819F /* exercise 02.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "exercise 02.cpp"; sourceTree = "<group>"; };
+		316F3D852AB0405D0025819F /* bài tập lên bảng.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "bài tập lên bảng.cpp"; sourceTree = "<group>"; };
+		316F3D872AB042B50025819F /* Bài tập 01.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "Bài tập 01.cpp"; sourceTree = "<group>"; };
+		319535B829B4E943001405AC /* HelloWorld */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = HelloWorld; sourceTree = BUILT_PRODUCTS_DIR; };
+		319535C229B4E9C6001405AC /* FunctionExtension.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = FunctionExtension.c; sourceTree = "<group>"; };
+		3197502229CB4DCB005A20DD /* BT_ở_nhà.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = "BT_ở_nhà.c"; sourceTree = "<group>"; };
+		31C082112AB6A55F00ACFBF2 /* test_oop.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = test_oop.cpp; sourceTree = "<group>"; };
+		31D0ADDC29F768A8009D52E6 /* bt25_4.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = bt25_4.c; sourceTree = "<group>"; };
+		31D0ADDE29FE6E1D009D52E6 /* cautrucdulieu.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = cautrucdulieu.c; sourceTree = "<group>"; };
+		31D0ADE02A09CFDB009D52E6 /* btppt9_5.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = btppt9_5.c; sourceTree = "<group>"; };
+		31D0FCE52A2754E2008E12A5 /* ctdl _Chương3.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = "ctdl _Chương3.c"; sourceTree = "<group>"; };
+		31D2280E2A8BAC6400650445 /* Mở_Đầu_c++.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "Mở_Đầu_c++.cpp"; sourceTree = "<group>"; };
+		31D9C1E32A128B2A00747B9A /* copy.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = copy.c; sourceTree = "<group>"; };
+		31DE6D6029C9239300CB8080 /* BT_21_3.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = BT_21_3.c; sourceTree = "<group>"; };
+		31DE6D6229C94A2F00CB8080 /* test.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = test.c; sourceTree = "<group>"; };
+		31E215F72AB332A100F1E816 /* test_oop_2.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = test_oop_2.cpp; sourceTree = "<group>"; };
+		31E215F92AB3F3D300F1E816 /* ngăn_xếp(stack).cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "ngăn_xếp(stack).cpp"; sourceTree = "<group>"; };
+		31E215FB2AB3F3ED00F1E816 /* link_list.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = link_list.cpp; sourceTree = "<group>"; };
+		31FAD33629C857AC00426079 /* BT_20_3.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = BT_20_3.c; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		319535B529B4E943001405AC /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		319535AF29B4E943001405AC = {
+			isa = PBXGroup;
+			children = (
+				31C082112AB6A55F00ACFBF2 /* test_oop.cpp */,
+				31E215F92AB3F3D300F1E816 /* ngăn_xếp(stack).cpp */,
+				31E215FB2AB3F3ED00F1E816 /* link_list.cpp */,
+				31E215F72AB332A100F1E816 /* test_oop_2.cpp */,
+				316F3D872AB042B50025819F /* Bài tập 01.cpp */,
+				316F3D852AB0405D0025819F /* bài tập lên bảng.cpp */,
+				316F3D832AAFF76E0025819F /* exercise 02.cpp */,
+				316F3D7D2AA8C2340025819F /* exercise7_oop.cpp */,
+				316F3D7F2AAE0F710025819F /* PBL_Năm 2.cpp */,
+				316F3D772AA47DAF0025819F /* BT5 _lthđt.cpp */,
+				316F3D6D2A9E34250025819F /* đa năng hoá.cpp */,
+				316F3D7B2AA47DFD0025819F /* BT6_lthđt.cpp */,
+				316F3D752AA1A8E60025819F /* BT4_lthddt.cpp */,
+				316F3D732A9F95200025819F /* BT3_lthdt.cpp */,
+				316F3D712A9F87700025819F /* bt2 _ lthđt.cpp */,
+				316F3D6F2A9ECB5D0025819F /* Bài tập 1 lthđt.cpp */,
+				316F3D6B2A97A2BF0025819F /* test_chương_trình.cpp */,
+				316F3D692A9433FD0025819F /* Lập_trình_hướng_đối_tượng.cpp */,
+				311F988E2A4347230037C6FC /* PBL_new.c */,
+				31D2280E2A8BAC6400650445 /* Mở_Đầu_c++.cpp */,
+				311F988C2A3FD5330037C6FC /* cki.c */,
+				31D0FCE52A2754E2008E12A5 /* ctdl _Chương3.c */,
+				310BF64D2A31D07800388B6C /* giải_đề_ctdl.c */,
+				310BF64B2A2CD15400388B6C /* bt_chuong3.c */,
+				31D9C1E32A128B2A00747B9A /* copy.c */,
+				31D0ADDE29FE6E1D009D52E6 /* cautrucdulieu.c */,
+				31D0ADE02A09CFDB009D52E6 /* btppt9_5.c */,
+				31D0ADDC29F768A8009D52E6 /* bt25_4.c */,
+				3197502229CB4DCB005A20DD /* BT_ở_nhà.c */,
+				31DE6D6029C9239300CB8080 /* BT_21_3.c */,
+				31FAD33629C857AC00426079 /* BT_20_3.c */,
+				319535BA29B4E943001405AC /* HelloWorld */,
+				319535B929B4E943001405AC /* Products */,
+			);
+			sourceTree = "<group>";
+		};
+		319535B929B4E943001405AC /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				319535B829B4E943001405AC /* HelloWorld */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		319535BA29B4E943001405AC /* HelloWorld */ = {
+			isa = PBXGroup;
+			children = (
+				319535C229B4E9C6001405AC /* FunctionExtension.c */,
+				315D85A829B6BBEC000981AF /* BT6_3.c */,
+				315D85AA29B6DA4E000981AF /* BT2.c */,
+				31DE6D6229C94A2F00CB8080 /* test.c */,
+				31546EC629DBC0740077924F /* BT.c */,
+			);
+			path = HelloWorld;
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		319535B729B4E943001405AC /* HelloWorld */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 319535BF29B4E943001405AC /* Build configuration list for PBXNativeTarget "HelloWorld" */;
+			buildPhases = (
+				319535B429B4E943001405AC /* Sources */,
+				319535B529B4E943001405AC /* Frameworks */,
+				319535B629B4E943001405AC /* CopyFiles */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = HelloWorld;
+			productName = HelloWorld;
+			productReference = 319535B829B4E943001405AC /* HelloWorld */;
+			productType = "com.apple.product-type.tool";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		319535B029B4E943001405AC /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				BuildIndependentTargetsInParallel = 1;
+				LastUpgradeCheck = 1410;
+				TargetAttributes = {
+					319535B729B4E943001405AC = {
+						CreatedOnToolsVersion = 14.1;
+					};
+				};
+			};
+			buildConfigurationList = 319535B329B4E943001405AC /* Build configuration list for PBXProject "HelloWorld" */;
+			compatibilityVersion = "Xcode 14.0";
+			developmentRegion = en;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+				Base,
+			);
+			mainGroup = 319535AF29B4E943001405AC;
+			productRefGroup = 319535B929B4E943001405AC /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				319535B729B4E943001405AC /* HelloWorld */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXSourcesBuildPhase section */
+		319535B429B4E943001405AC /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				31E215FC2AB3F3ED00F1E816 /* link_list.cpp in Sources */,
+				316F3D762AA1A8E60025819F /* BT4_lthddt.cpp in Sources */,
+				315D85AB29B6DA4E000981AF /* BT2.c in Sources */,
+				31D2280F2A8BAC6400650445 /* Mở_Đầu_c++.cpp in Sources */,
+				316F3D6C2A97A2BF0025819F /* test_chương_trình.cpp in Sources */,
+				310BF64E2A31D07800388B6C /* giải_đề_ctdl.c in Sources */,
+				316F3D702A9ECB5D0025819F /* Bài tập 1 lthđt.cpp in Sources */,
+				315D85A929B6BBEC000981AF /* BT6_3.c in Sources */,
+				316F3D6A2A9433FD0025819F /* Lập_trình_hướng_đối_tượng.cpp in Sources */,
+				316F3D7E2AA8C2340025819F /* exercise7_oop.cpp in Sources */,
+				311F988F2A4347230037C6FC /* PBL_new.c in Sources */,
+				31D0ADDD29F768A8009D52E6 /* bt25_4.c in Sources */,
+				31DE6D6129C9239300CB8080 /* BT_21_3.c in Sources */,
+				31E215F82AB332A100F1E816 /* test_oop_2.cpp in Sources */,
+				316F3D6E2A9E34250025819F /* đa năng hoá.cpp in Sources */,
+				3197502329CB4DCB005A20DD /* BT_ở_nhà.c in Sources */,
+				316F3D802AAE0F710025819F /* PBL_Năm 2.cpp in Sources */,
+				31546EC729DBC0740077924F /* BT.c in Sources */,
+				31D9C1E42A128B2A00747B9A /* copy.c in Sources */,
+				31D0ADDF29FE6E1D009D52E6 /* cautrucdulieu.c in Sources */,
+				316F3D842AAFF76E0025819F /* exercise 02.cpp in Sources */,
+				310BF64C2A2CD15400388B6C /* bt_chuong3.c in Sources */,
+				31D0FCE62A2754E2008E12A5 /* ctdl _Chương3.c in Sources */,
+				311F988D2A3FD5330037C6FC /* cki.c in Sources */,
+				31FAD33729C857AC00426079 /* BT_20_3.c in Sources */,
+				316F3D742A9F95200025819F /* BT3_lthdt.cpp in Sources */,
+				316F3D722A9F87700025819F /* bt2 _ lthđt.cpp in Sources */,
+				31C082132AB6A55F00ACFBF2 /* test_oop.cpp in Sources */,
+				316F3D882AB042B50025819F /* Bài tập 01.cpp in Sources */,
+				316F3D862AB0405D0025819F /* bài tập lên bảng.cpp in Sources */,
+				319535C329B4E9C6001405AC /* FunctionExtension.c in Sources */,
+				31D0ADE12A09CFDB009D52E6 /* btppt9_5.c in Sources */,
+				31DE6D6329C94A2F00CB8080 /* test.c in Sources */,
+				31E215FA2AB3F3D300F1E816 /* ngăn_xếp(stack).cpp in Sources */,
+				316F3D7C2AA47DFD0025819F /* BT6_lthđt.cpp in Sources */,
+				316F3D782AA47DAF0025819F /* BT5 _lthđt.cpp in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin XCBuildConfiguration section */
+		319535BD29B4E943001405AC /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++20";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_QUOTED_INCLUDE_IN_FRAMEWORK_HEADER = YES;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = dwarf;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_TESTABILITY = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu11;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				MACOSX_DEPLOYMENT_TARGET = 13.0;
+				MTL_ENABLE_DEBUG_INFO = INCLUDE_SOURCE;
+				MTL_FAST_MATH = YES;
+				ONLY_ACTIVE_ARCH = YES;
+				SDKROOT = macosx;
+			};
+			name = Debug;
+		};
+		319535BE29B4E943001405AC /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++20";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_QUOTED_INCLUDE_IN_FRAMEWORK_HEADER = YES;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				ENABLE_NS_ASSERTIONS = NO;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu11;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				MACOSX_DEPLOYMENT_TARGET = 13.0;
+				MTL_ENABLE_DEBUG_INFO = NO;
+				MTL_FAST_MATH = YES;
+				SDKROOT = macosx;
+			};
+			name = Release;
+		};
+		319535C029B4E943001405AC /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_STYLE = Automatic;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = Debug;
+		};
+		319535C129B4E943001405AC /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_STYLE = Automatic;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		319535B329B4E943001405AC /* Build configuration list for PBXProject "HelloWorld" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				319535BD29B4E943001405AC /* Debug */,
+				319535BE29B4E943001405AC /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		319535BF29B4E943001405AC /* Build configuration list for PBXNativeTarget "HelloWorld" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				319535C029B4E943001405AC /* Debug */,
+				319535C129B4E943001405AC /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = 319535B029B4E943001405AC /* Project object */;
+}
